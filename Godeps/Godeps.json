@@ -27,7 +27,7 @@
 			"Rev": "232e8563676cd15c3a36ba5e675ad4312ac4cb11"
 		},
 		{
-			"ImportPath": "golang.org/x/net/context",
+			"ImportPath": "github.com/golang/net",
 			"Rev": "621fff363a1d9ad7fdd0bfa9d80a42881267deb4"
 		},
 		{
